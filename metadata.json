@@ -1,0 +1,6 @@
+{
+  "name": "CopyMaster AI - Gerador de Ofertas WhatsApp & Telegram",
+  "description": "Plataforma profissional de copywriting para afiliados, dropshipping e achadinhos com IA, formatação WhatsApp, links de afiliados e disparador em lote.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
